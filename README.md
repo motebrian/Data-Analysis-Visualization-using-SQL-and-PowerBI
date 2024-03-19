@@ -60,7 +60,17 @@ ORDER BY
 ```
 
 ## Power BI Visualization
-[Provide details of the visualizations created using Power BI, explaining the insights represented visually and any interactive features incorporated.]
+After the analysis, I loaded the data directly into PowerBi from Postgre SQL
+### Overview
+
+![Sales Report Overview](https://github.com/motebrian/Data-Analysis-Visualization-using-SQL-and-PowerBI/assets/90248185/f28f2492-268c-40f6-9fe4-4cee8f48ef4b)
+
+### Products and Retailers View
+![Products and retailer's view](https://github.com/motebrian/Data-Analysis-Visualization-using-SQL-and-PowerBI/assets/90248185/bc582041-a51c-460e-9eea-5e509c415390)
+
+### Regional View
+
+![Regional View](https://github.com/motebrian/Data-Analysis-Visualization-using-SQL-and-PowerBI/assets/90248185/4c88b9ef-6c53-4a99-968a-b48c3a6eb9f2)
 
 ## Results
 The analysis revealed that the top-selling Adidas product is Men’s street footwear, with an average price of $49 and an average operating profit of $71,681. Significant price disparities exist across regions and products, indicating potential pricing strategies and market segmentation opportunities. Adidas demonstrates impressive year-over-year sales growth at 394.23%, with key products driving profitability identified.
